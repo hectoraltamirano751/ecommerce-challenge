@@ -1,0 +1,10 @@
+[
+  {
+    "id": "QUANTITY_DUPLICATION",
+    "file": "C:\\Users\\Admin\\PinApp Challenge\\ecommerce-challenge\\src\\index.js",
+    "line": 173,
+    "issue": "La cantidad se multiplica sin motivo.",
+    "severity": "medium",
+    "snippet": "quantity = quantity * 2"
+  }
+]
